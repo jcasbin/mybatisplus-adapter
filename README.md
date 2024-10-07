@@ -1,6 +1,21 @@
 # mybatisplus-adapter
+[![codebeat badge](https://codebeat.co/badges/998c8e12-ffdd-4196-b2a2-8979d7f1ee8a)](https://codebeat.co/projects/github-com-jcasbin-mybatisplus-adapter-master)
+[![build](https://github.com/jcasbin/mybatisplus-adapter/actions/workflows/ci.yml/badge.svg)](https://github.com/jcasbin/mybatisplus-adapter/actions)
+[![codecov](https://codecov.io/github/jcasbin/mybatisplus-adapter/branch/master/graph/badge.svg?token=4YRFEQY7VK)](https://codecov.io/github/jcasbin/mybatisplus-adapter)
+[![javadoc](https://javadoc.io/badge2/org.casbin/mybatisplus-adapter/javadoc.svg)](https://javadoc.io/doc/org.casbin/mybatisplus-adapter)
+[![Maven Central](https://img.shields.io/maven-central/v/org.casbin/mybatisplus-adapter.svg)](https://mvnrepository.com/artifact/org.casbin/mybatisplus-adapter/latest)
+[![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
 Mybatis-Plus Adapter is the Mybatis-Plus adapter for jCasbin, which provides interfaces for loading policies from Mybatis-Plus and saving policies to it.
+
+## Installation
+
+    <dependency>
+        <groupId>org.casbin</groupId>
+        <artifactId>mybatisplus-adapter</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+
 
 ## Example
 
